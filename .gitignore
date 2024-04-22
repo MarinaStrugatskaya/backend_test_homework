@@ -1,0 +1,8 @@
+#Ignire README.md
+README.md
+
+#Ignore file side.txt in build
+build/side.txt
+
+#Ignore all .doc files
+*.doc
